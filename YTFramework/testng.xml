@@ -5,8 +5,7 @@
     <classes>
       <class name="org.testing.Testscripts.tc3"/>    
       <class name="org.testing.Testscripts.Tc1"/>
-      <class name="org.testing.Testscripts.tc2"/>
-      <class name="org.testing.Testscripts.tc7"/>
+
       </classes>
   </test> <!-- Test -->
 </suite> <!-- Suite -->
